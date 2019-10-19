@@ -1,3 +1,5 @@
+TEST
+
 # Goss - Quick and Easy server validation
 
 [![Build Status](https://travis-ci.org/aelsabbahy/goss.svg?branch=master)](https://travis-ci.org/aelsabbahy/goss)
